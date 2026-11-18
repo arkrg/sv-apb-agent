@@ -1,0 +1,6 @@
+[submodule "ext/apb-checker"]
+	path = ext/apb-checker
+	url = https://github.com/arkrg/sva-apb3-checker.git
+[submodule "ext/apb-slvrtl"]
+	path = ext/apb-slvrtl
+	url = https://github.com/arkrg/sv-apb3-completer.git
